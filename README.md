@@ -6,7 +6,7 @@
 
 </div>
 
-<p align="center"><img src="codeatlas.svg?v=blue1" alt="CODEATLAS · every company has a map nobody has drawn yet. we draw it. then we build." width="720"></p>
+<p align="center"><img src="logo-blue.svg" alt="CODEATLAS · every company has a map nobody has drawn yet. we draw it. then we build." width="720"></p>
 
 > **codeatlas is a technology consultancy from curitiba.** we don't sell a solution before we understand the problem.
 > we map how a company actually runs (operations, processes, people) and only then decide what it needs:
@@ -38,7 +38,7 @@ $ git log --author=me --since=1.year --all | wc -l
 
 <p align="center"><img src="https://skillicons.dev/icons?i=ts,go,rust,nodejs,nestjs,react,nextjs,svelte,rails,postgres,redis,rabbitmq,gcp,docker,linux&perline=15" alt="stack"></p>
 
-<p align="center"><img src="activity.svg?v=blue1" alt="a year of contributions" width="820"></p>
+<p align="center"><img src="activity-blue.svg" alt="a year of contributions" width="820"></p>
 
 <div align="center">
 
