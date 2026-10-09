@@ -2,7 +2,7 @@
 
 <a href="https://codeatlas.com.br"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=660&lines=%E2%96%8C+luan+coleto+%C2%B7+cofounder+%40codeatlasdev;we+map+the+problem+before+we+write+code;custom+software+%C2%B7+AI+agents+%C2%B7+digital+transformation;from+curitiba+to+anywhere+%F0%9F%87%A7%F0%9F%87%B7" alt="luan coleto · cofounder @codeatlasdev"></a>
 
-<sub>📍 lat −25.43 · lon −49.27 · curitiba, brasil &nbsp;|&nbsp; cofounding <a href="https://github.com/codeatlasdev">@codeatlasdev</a> with <a href="https://github.com/mvilacad">@mvilacad</a></sub>
+<sub>📍 lat −25.43 · lon −49.27 · curitiba, brasil &nbsp;|&nbsp; building <a href="https://github.com/codeatlasdev">@codeatlasdev</a> with <a href="https://github.com/mvilacad">@mvilacad</a></sub>
 
 </div>
 
