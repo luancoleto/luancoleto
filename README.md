@@ -33,38 +33,21 @@ flowchart LR
     style H fill:#111,color:#fff,stroke:#111
 ```
 
-### 🛠️ what we build
+### 🧭 how i think
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**map first, build second.**<br>
+most problems look like software problems. a lot of them aren't.
 
-**📦 software made to measure**<br>
-<sub>systems shaped around how your company works. never the other way around.</sub>
+```
+→ listen before proposing. the client knows the pain, not always the cause
+→ the simplest fix wins, even when it means writing less code
+→ no tool, framework or model gets picked just because it's trending
+→ if the person using it has to think twice, it's not done yet
+→ ship small, measure, then evolve. never disappear after the deploy
+→ we'd rather say "you don't need us for this" than sell the wrong thing
+```
 
-</td>
-<td width="50%" valign="top">
-
-**🤖 zelvo.ai**<br>
-<sub>our AI agents for customer service. more conversations, same care.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔄 digital transformation**<br>
-<sub>processes, tools and integrations, so growth doesn't break what works.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**🧪 agent-ready**<br>
-<sub>even our site speaks MCP, A2A and llms.txt. AI can hire us too.</sub>
-
-</td>
-</tr>
-</table>
+that's how we build at <a href="https://github.com/codeatlasdev">@codeatlasdev</a>. same map, two cofounders, curitiba to anywhere.
 
 ### 📞 call us when
 
