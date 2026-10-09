@@ -6,17 +6,7 @@
 
 </div>
 
-```
- ██████╗  ██████╗  ██████╗  ███████╗  █████╗  ████████╗ ██╗       █████╗  ███████╗
-██╔════╝ ██╔═══██╗ ██╔══██╗ ██╔════╝ ██╔══██╗ ╚══██╔══╝ ██║      ██╔══██╗ ██╔════╝
-██║      ██║   ██║ ██║  ██║ █████╗   ███████║    ██║    ██║      ███████║ ███████╗
-██║      ██║   ██║ ██║  ██║ ██╔══╝   ██╔══██║    ██║    ██║      ██╔══██║ ╚════██║
-╚██████╗ ╚██████╔╝ ██████╔╝ ███████╗ ██║  ██║    ██║    ███████╗ ██║  ██║ ███████║
- ╚═════╝  ╚═════╝  ╚═════╝  ╚══════╝ ╚═╝  ╚═╝    ╚═╝    ╚══════╝ ╚═╝  ╚═╝ ╚══════╝
-
-                  every company has a map nobody has drawn yet.
-                            we draw it. then we build.
-```
+<p align="center"><img src="codeatlas.svg" alt="CODEATLAS · every company has a map nobody has drawn yet. we draw it. then we build." width="720"></p>
 
 > **codeatlas is a technology consultancy from curitiba.** we don't sell a solution before we understand the problem.
 > we map how a company actually runs (operations, processes, people) and only then decide what it needs:
