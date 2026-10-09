@@ -6,7 +6,17 @@
 
 </div>
 
-<p align="center"><img src="codeatlas.svg" alt="CODEATLAS · every company has a map nobody has drawn yet. we draw it. then we build." width="720"></p>
+```
+ ██████╗  ██████╗  ██████╗  ███████╗  █████╗  ████████╗ ██╗       █████╗  ███████╗
+██╔════╝ ██╔═══██╗ ██╔══██╗ ██╔════╝ ██╔══██╗ ╚══██╔══╝ ██║      ██╔══██╗ ██╔════╝
+██║      ██║   ██║ ██║  ██║ █████╗   ███████║    ██║    ██║      ███████║ ███████╗
+██║      ██║   ██║ ██║  ██║ ██╔══╝   ██╔══██║    ██║    ██║      ██╔══██║ ╚════██║
+╚██████╗ ╚██████╔╝ ██████╔╝ ███████╗ ██║  ██║    ██║    ███████╗ ██║  ██║ ███████║
+ ╚═════╝  ╚═════╝  ╚═════╝  ╚══════╝ ╚═╝  ╚═╝    ╚═╝    ╚══════╝ ╚═╝  ╚═╝ ╚══════╝
+
+                  every company has a map nobody has drawn yet.
+                            we draw it. then we build.
+```
 
 > **codeatlas is a technology consultancy from curitiba.** we don't sell a solution before we understand the problem.
 > we map how a company actually runs (operations, processes, people) and only then decide what it needs:
@@ -14,17 +24,12 @@
 
 ### 🧭 how we work
 
-```mermaid
-flowchart LR
-    A["😩 a manual process<br/>eating hours"] --> B["🗺️ map it<br/>ops · process · people"]
-    B --> C{"what does it<br/>really need?"}
-    C -->|process| D["redesign"]
-    C -->|automation| E["AI agents"]
-    C -->|software| F["custom product"]
-    C -->|data| G["integrations"]
-    D & E & F & G --> H["🚀 ship + evolve<br/>long-term partner"]
-    style B fill:#ff6a1a,color:#fff,stroke:#ff6a1a
-    style H fill:#111,color:#fff,stroke:#111
+```
+  01  LISTEN     ·  sit with the people who live the problem every day
+  02  MAP        ·  draw how things really run: operations, process, people
+  03  DECIDE     ·  process? design? data? automation? code? only now we choose
+  04  BUILD      ·  the smallest thing that actually fixes it
+  05  EVOLVE     ·  measure, adjust, stay around. no disappearing after deploy
 ```
 
 ### 🧭 how i think
