@@ -35,37 +35,36 @@ flowchart LR
 
 ### 🛠️ what we build
 
-<details open>
-<summary><b>📦 custom digital products</b></summary>
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-systems and platforms born from real business problems, not templates. from requirements mapping to deploy, and then we stay for the evolution. no generic SaaS you have to bend your company around.
+**📦 software made to measure**<br>
+<sub>systems shaped around how your company works. never the other way around.</sub>
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🤖 zelvo.ai &nbsp;·&nbsp; intelligent customer service</b></summary>
-<br>
+**🤖 zelvo.ai**<br>
+<sub>our AI agents for customer service. more conversations, same care.</sub>
 
-our own AI product. agents that handle customer conversations so a company can scale the relationship without losing quality, reliable and aligned with how that business actually talks to people.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+**🔄 digital transformation**<br>
+<sub>processes, tools and integrations, so growth doesn't break what works.</sub>
 
-<details>
-<summary><b>🔄 digital transformation consulting</b></summary>
-<br>
+</td>
+<td width="50%" valign="top">
 
-strategic + technical guidance for companies going digital: mapping processes, choosing tools, integrating systems, training teams. built for the moment when growth breaks the way things used to work.
+**🧪 agent-ready**<br>
+<sub>even our site speaks MCP, A2A and llms.txt. AI can hire us too.</sub>
 
-</details>
-
-<details>
-<summary><b>🧪 agent-ready by default</b> &nbsp;<sub>for the devs reading this</sub></summary>
-<br>
-
-even our own website talks to AI agents: public API with OpenAPI, **MCP server**, **A2A** agent card, NLWeb `/ask`, `llms.txt`. if an agent wants to hire us, it can. → [codeatlas.com.br/docs](https://codeatlas.com.br/docs)
-
-</details>
+</td>
+</tr>
+</table>
 
 ### 📞 call us when
 
