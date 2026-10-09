@@ -18,7 +18,7 @@
 
 <p align="center"><b>map first, build second.</b> most problems look like software problems. a lot of them aren't.</p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=FF6A1A&center=true&vCenter=true&width=620&lines=%E2%86%92%20listen%20before%20proposing;%E2%86%92%20the%20simplest%20fix%20wins;%E2%86%92%20no%20tool%20picked%20because%20it%27s%20trending;%E2%86%92%20if%20they%20think%20twice%2C%20it%27s%20not%20done;%E2%86%92%20ship%20small.%20never%20disappear%20after%20deploy;%E2%86%92%20%22you%20don%27t%20need%20us%20for%20this%22%20is%20a%20valid%20answer" alt="principles"></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=1100&color=8B949E&background=161B2200&center=true&vCenter=true&multiline=false&width=520&height=28&lines=%E2%86%92%20listen%20before%20proposing;%E2%86%92%20the%20simplest%20fix%20wins;%E2%86%92%20no%20tool%20picked%20because%20it%27s%20trending;%E2%86%92%20if%20they%20think%20twice%2C%20it%27s%20not%20done;%E2%86%92%20ship%20small.%20never%20disappear%20after%20deploy;%E2%86%92%20%22you%20don%27t%20need%20us%20for%20this%22%20is%20a%20valid%20answer" alt="principles"></p>
 
 ### 👤 me, on this map
 
