@@ -1,21 +1,41 @@
-# Hello there, I'm Luan! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<a href="https://codeatlas.com.br"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=F7F7F7&vCenter=true&width=600&lines=hey%2C+i'm+luan+%F0%9F%87%A7%F0%9F%87%B7;ceo+%40codeatlasdev;i+ship+SaaS+from+db+to+app+store;real-time+backends%2C+mobile+apps%2C+AI;building+in+curitiba%2C+BR" alt="hey, i'm luan"></a>
 
-<a href="https://github.com/LuanColeto">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=LuanColeto&show_icons=true&theme=dracula">
-</a>
-<a href="https://github.com/LuanColeto">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanColeto&layout=compact&theme=dracula">
-</a>
+```console
+$ whoami
+luan coleto, dev from curitiba, brazil
 
-## Languages, Frameworks and Tools
+$ cat now.txt
+> running @codeatlasdev: AI and software that make companies faster
+> building products end to end: backend, web, mobile, infra
+> open to talk. pt-br / english
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+$ git log --author=me --since=1.year --all | wc -l
+6300+   # most of it private. the public stuff is below
+```
 
+### 🔒 private stuff i'm proud of
 
+| | |
+|---|---|
+| **codeatlas** | the company. AI and custom software for businesses, from MVP to production |
+| **urban mobility** | real-time backend: live geolocation, distributed cache, async messaging (NestJS, Redis, RabbitMQ) |
+| **restaurant SaaS** | ordering and delivery platform used by hundreds of restaurants. payments, digital POS, order panel |
+| **recruiting app** | mobile app for hiring: job and candidate management with behavioral assessments |
 
+### 🌐 this profile's sibling
 
+**[portfolio](https://github.com/LuanColeto/portfolio)** · go<br>
+my site. a tiny robot builds it in front of you, letter by letter. one go binary, zero frameworks, live github data.
+
+### 🧰 what i use
+
+![](https://skillicons.dev/icons?i=ts,js,go,nodejs,nestjs,react,nextjs,rails,postgres,mongodb,redis,rabbitmq,gcp,docker,git)
+
+### 📈 a year in commits
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=LuanColeto&bg_color=0d1117&color=f7f7f7&line=ff4f00&point=f7f7f7&area=true&area_color=ff4f00&hide_border=true)
+
+### 📬 talk to me
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luan-coleto/)
+[![site](https://img.shields.io/badge/codeatlas.com.br-111?style=for-the-badge&logo=googlechrome)](https://codeatlas.com.br)
