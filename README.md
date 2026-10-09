@@ -14,39 +14,11 @@
 
 ### 🧭 how we work
 
-```
-  01  LISTEN     ·  sit with the people who live the problem every day
-  02  MAP        ·  draw how things really run: operations, process, people
-  03  DECIDE     ·  process? design? data? automation? code? only now we choose
-  04  BUILD      ·  the smallest thing that actually fixes it
-  05  EVOLVE     ·  measure, adjust, stay around. no disappearing after deploy
-```
+<p align="center"><img src="https://img.shields.io/badge/01-listen-21262d?style=flat-square" alt="01 listen"> &nbsp;→&nbsp; <img src="https://img.shields.io/badge/02-map-ff6a1a?style=flat-square" alt="02 map"> &nbsp;→&nbsp; <img src="https://img.shields.io/badge/03-decide-21262d?style=flat-square" alt="03 decide"> &nbsp;→&nbsp; <img src="https://img.shields.io/badge/04-build-21262d?style=flat-square" alt="04 build"> &nbsp;→&nbsp; <img src="https://img.shields.io/badge/05-evolve-21262d?style=flat-square" alt="05 evolve"></p>
 
-### 🧭 how i think
+<p align="center"><b>map first, build second.</b> most problems look like software problems. a lot of them aren't.</p>
 
-**map first, build second.**<br>
-most problems look like software problems. a lot of them aren't.
-
-```
-→ listen before proposing. the client knows the pain, not always the cause
-→ the simplest fix wins, even when it means writing less code
-→ no tool, framework or model gets picked just because it's trending
-→ if the person using it has to think twice, it's not done yet
-→ ship small, measure, then evolve. never disappear after the deploy
-→ we'd rather say "you don't need us for this" than sell the wrong thing
-```
-
-that's how we build at <a href="https://github.com/codeatlasdev">@codeatlasdev</a>. same map, two cofounders, curitiba to anywhere.
-
-### 📞 call us when
-
-```diff
-+ a critical process is manual and keeps eating time or causing errors
-+ you need a system built from scratch, not another generic SaaS
-+ you want AI in customer service that you can actually trust
-+ the company is growing and the processes stopped scaling
-+ you need a technical partner for the long run, not a one-off delivery
-```
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=FF6A1A&center=true&vCenter=true&width=620&lines=%E2%86%92%20listen%20before%20proposing;%E2%86%92%20the%20simplest%20fix%20wins;%E2%86%92%20no%20tool%20picked%20because%20it%27s%20trending;%E2%86%92%20if%20they%20think%20twice%2C%20it%27s%20not%20done;%E2%86%92%20ship%20small.%20never%20disappear%20after%20deploy;%E2%86%92%20%22you%20don%27t%20need%20us%20for%20this%22%20is%20a%20valid%20answer" alt="principles"></p>
 
 ### 👤 me, on this map
 
@@ -66,7 +38,7 @@ $ git log --author=me --since=1.year --all | wc -l
 
 <p align="center"><img src="https://skillicons.dev/icons?i=ts,go,rust,nodejs,nestjs,react,nextjs,svelte,rails,postgres,redis,rabbitmq,gcp,docker,linux&perline=15" alt="stack"></p>
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=LuanColeto&bg_color=00000000&color=8b949e&line=ff6a1a&point=ffffff&area=true&area_color=ff6a1a&hide_border=true&custom_title=6300%2B+contributions+in+the+last+year" alt="activity"></p>
+<p align="center"><img src="activity.svg" alt="a year of contributions" width="820"></p>
 
 <div align="center">
 
