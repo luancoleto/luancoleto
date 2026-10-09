@@ -38,7 +38,7 @@ $ git log --author=me --since=1.year --all | wc -l
 
 <p align="center"><img src="https://skillicons.dev/icons?i=ts,go,rust,nodejs,nestjs,react,nextjs,svelte,rails,postgres,redis,rabbitmq,gcp,docker,linux&perline=15" alt="stack"></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/LuanColeto/LuanColeto/output/snake.svg" alt="snake eating my contributions" width="820"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/luancoleto/luancoleto/output/snake.svg" alt="snake eating my contributions" width="820"></p>
 
 <p align="center"><sub>6,316 contributions in the last year · mostly private client work · the snake refreshes every 12h</sub></p>
 
